@@ -1,2 +1,19 @@
 # food-order
- Criação de projeto back e frontend
+ Criação de projeto back e frontend usando PHP, HTML, CSS e banco de dados MYSQL para guardar os dados.
+Projeto Food Order - Sistema de Pedidos de Comida
+Descrição do Projeto
+O Projeto Food Order é uma plataforma online que simplifica o processo de pedido de comida. O sistema conta com um frontend intuitivo para os clientes visualizarem o menu, categorias de comida e realizarem pedidos. No backend, é possível administrar usuários, criar, editar e excluir pratos de comida e categorias.
+
+Componentes do Projeto
+1. Frontend da Aplicação Web
+O frontend proporciona uma experiência amigável aos clientes, permitindo:
+
+Visualizar o menu: Lista de pratos de comida disponíveis para pedidos.
+Explorar categorias: Agrupamento dos pratos por tipo (ex: entradas, pratos principais, sobremesas).
+Adicionar pedidos: Funcionalidade para adicionar itens ao carrinho de compras.
+2. Backend do Sistema
+O backend é responsável por gerenciar dados e operações administrativas, incluindo:
+
+Inserir usuários admin: Cadastro de usuários com permissões administrativas.
+Criação de pratos de comida e categorias: Adição de novos itens ao menu.
+Edição e exclusão de pratos e categorias: Manutenção do cardápio.
